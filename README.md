@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning new things Everyday 🤣
 - 👯 I would like listen to music 
 - 🥅 Goals: Never go to sleep without learning atleast one new thing
-- ⚡ Fun fact: Always exicted in knowing new Things
+- ⚡ Fun fact: Always exicted to experiment
 - :dog: I love pets
 
 ### Connect with me:
