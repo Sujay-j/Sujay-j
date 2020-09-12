@@ -2,7 +2,7 @@
 #### I have Completed my Post Graduation on MCA in year(2020)
 
 
-- 🔭 I’m currently Looking for a career in MachineLearning
+- 🔭 I’m currently Looking for a career in MachineLearning and Artificial Intelligence 
 - 🌱 I’m currently learning new things Everyday 🤣
 - 👯 I would like listen to music 
 - 🥅 Goals: Never go to sleep without learning atleast one new thing
