@@ -25,9 +25,6 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Repo]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][Repo]
 <br/>
-<br/>
-<img src="![AI](https://user-images.githubusercontent.com/62814615/92987352-51792680-f4df-11ea-83fb-59a7932aafb0.gif)
-" width="250" height="250"/>
 
 [linkedin]:linkedin.com/in/sujay-j-2a70b5190 
 [instagram]: https://www.instagram.com/sujay_aka_charlie/
