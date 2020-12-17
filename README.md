@@ -1,5 +1,7 @@
 ### Hi there ,I'm Sujay J 👋
 #### I have Completed my Post Graduation on MCA in year(2020)
+## I am an Machine Learning and Artificial Intelligence Enthusiastic and to become an aspiring Data Scientist
+## Very Eager to Learn new Things every time. 
 
 
 - 🔭 I’m currently Looking for a career in MachineLearning and Artificial Intelligence 
